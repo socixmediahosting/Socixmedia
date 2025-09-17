@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', () => {
 // Newsletter
 
 
-        document.getElementById('copyrightYear').textContent = '2025';
+        document.getElementById('copyrightYear').textContent = '2023';
 
         const form = document.getElementById('newsletterForm');
         const emailInput = document.getElementById('emailInput');
